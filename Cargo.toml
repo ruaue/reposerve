@@ -26,6 +26,7 @@ v_htmlescape = "0.10.4"
 actix-token-middleware = "0.3.0"
 actix-schemeredirect-middleware = "0.2"
 rustls-pemfile = "1.0.1"
+time = "0.3.37"
 
 [patch.crates-io]
 actix-schemeredirect-middleware = { git = "https://github.com/eburghar/actix-schemeredirect-middleware.git", branch = "master" }
